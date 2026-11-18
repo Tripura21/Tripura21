@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t">
+<title id="t">Lakshmi Tripura, AI/ML Engineer. Generative AI, LLMs, RAG, AI Agents, MLOps.</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a0f1f"/><stop offset=".55" stop-color="#111733"/><stop offset="1" stop-color="#1a1033"/>
+  </linearGradient>
+  <radialGradient id="g1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".22"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g3"><stop offset="0" stop-color="#ec4899" stop-opacity=".16"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#ddd6fe"/><stop offset="1" stop-color="#a5f3fc"/>
+  </linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#94a3b8" fill-opacity=".13"/></pattern>
+  <clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  .edge{stroke:#3b4a66;stroke-opacity:.55;stroke-width:1}
+  .p{fill:none;stroke-width:2.8;stroke-linecap:round;stroke-dasharray:26 100;stroke-dashoffset:26;animation:flow 3.6s linear infinite}
+  @keyframes flow{0%{stroke-dashoffset:26}16.667%{stroke-dashoffset:-100}100%{stroke-dashoffset:-100}}
+  .h{opacity:0;animation:fire 3.6s ease-out infinite}
+  @keyframes fire{0%{opacity:0}2%{opacity:.9}22%{opacity:0}100%{opacity:0}}
+  .live{animation:live 2s ease-in-out infinite}
+  @keyframes live{0%,100%{opacity:1}50%{opacity:.25}}
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+  .mono{font-family:'SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+</style>
+<g clip-path="url(#frame)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#dots)"/>
+<circle cx="250" cy="165" r="240" fill="url(#g1)"/>
+<circle cx="1010" cy="40" r="300" fill="url(#g2)"/>
+<circle cx="1180" cy="330" r="230" fill="url(#g3)"/>
+<g>
+<line class="edge" x1="95" y1="123.0" x2="205" y2="81.0"/>
+<line class="edge" x1="95" y1="123.0" x2="205" y2="123.0"/>
+<line class="edge" x1="95" y1="123.0" x2="205" y2="165.0"/>
+<line class="edge" x1="95" y1="123.0" x2="205" y2="207.0"/>
+<line class="edge" x1="95" y1="123.0" x2="205" y2="249.0"/>
+<line class="edge" x1="95" y1="165.0" x2="205" y2="81.0"/>
+<line class="edge" x1="95" y1="165.0" x2="205" y2="123.0"/>
+<line class="edge" x1="95" y1="165.0" x2="205" y2="165.0"/>
+<line class="edge" x1="95" y1="165.0" x2="205" y2="207.0"/>
+<line class="edge" x1="95" y1="165.0" x2="205" y2="249.0"/>
+<line class="edge" x1="95" y1="207.0" x2="205" y2="81.0"/>
+<line class="edge" x1="95" y1="207.0" x2="205" y2="123.0"/>
+<line class="edge" x1="95" y1="207.0" x2="205" y2="165.0"/>
+<line class="edge" x1="95" y1="207.0" x2="205" y2="207.0"/>
+<line class="edge" x1="95" y1="207.0" x2="205" y2="249.0"/>
+<line class="edge" x1="205" y1="81.0" x2="315" y2="81.0"/>
+<line class="edge" x1="205" y1="81.0" x2="315" y2="123.0"/>
+<line class="edge" x1="205" y1="81.0" x2="315" y2="165.0"/>
+<line class="edge" x1="205" y1="81.0" x2="315" y2="207.0"/>
+<line class="edge" x1="205" y1="81.0" x2="315" y2="249.0"/>
+<line class="edge" x1="205" y1="123.0" x2="315" y2="81.0"/>
+<line class="edge" x1="205" y1="123.0" x2="315" y2="123.0"/>
+<line class="edge" x1="205" y1="123.0" x2="315" y2="165.0"/>
+<line class="edge" x1="205" y1="123.0" x2="315" y2="207.0"/>
+<line class="edge" x1="205" y1="123.0" x2="315" y2="249.0"/>
+<line class="edge" x1="205" y1="165.0" x2="315" y2="81.0"/>
+<line class="edge" x1="205" y1="165.0" x2="315" y2="123.0"/>
+<line class="edge" x1="205" y1="165.0" x2="315" y2="165.0"/>
+<line class="edge" x1="205" y1="165.0" x2="315" y2="207.0"/>
+<line class="edge" x1="205" y1="165.0" x2="315" y2="249.0"/>
+<line class="edge" x1="205" y1="207.0" x2="315" y2="81.0"/>
+<line class="edge" x1="205" y1="207.0" x2="315" y2="123.0"/>
+<line class="edge" x1="205" y1="207.0" x2="315" y2="165.0"/>
+<line class="edge" x1="205" y1="207.0" x2="315" y2="207.0"/>
+<line class="edge" x1="205" y1="207.0" x2="315" y2="249.0"/>
+<line class="edge" x1="205" y1="249.0" x2="315" y2="81.0"/>
+<line class="edge" x1="205" y1="249.0" x2="315" y2="123.0"/>
+<line class="edge" x1="205" y1="249.0" x2="315" y2="165.0"/>
+<line class="edge" x1="205" y1="249.0" x2="315" y2="207.0"/>
+<line class="edge" x1="205" y1="249.0" x2="315" y2="249.0"/>
+<line class="edge" x1="315" y1="81.0" x2="425" y2="144.0"/>
+<line class="edge" x1="315" y1="81.0" x2="425" y2="186.0"/>
+<line class="edge" x1="315" y1="123.0" x2="425" y2="144.0"/>
+<line class="edge" x1="315" y1="123.0" x2="425" y2="186.0"/>
+<line class="edge" x1="315" y1="165.0" x2="425" y2="144.0"/>
+<line class="edge" x1="315" y1="165.0" x2="425" y2="186.0"/>
+<line class="edge" x1="315" y1="207.0" x2="425" y2="144.0"/>
+<line class="edge" x1="315" y1="207.0" x2="425" y2="186.0"/>
+<line class="edge" x1="315" y1="249.0" x2="425" y2="144.0"/>
+<line class="edge" x1="315" y1="249.0" x2="425" y2="186.0"/>
+</g>
+<g filter="url(#glow)">
+<path class="p" pathLength="100" stroke="#a78bfa" style="animation-delay:0.00s" d="M95 165.0L205 165.0"/>
+<path class="p" pathLength="100" stroke="#a78bfa" style="animation-delay:0.60s" d="M205 165.0L315 123.0"/>
+<path class="p" pathLength="100" stroke="#f9a8d4" style="animation-delay:1.20s" d="M315 123.0L425 144.0"/>
+<path class="p" pathLength="100" stroke="#a78bfa" style="animation-delay:1.20s" d="M95 123.0L205 81.0"/>
+<path class="p" pathLength="100" stroke="#a78bfa" style="animation-delay:1.80s" d="M205 81.0L315 207.0"/>
+<path class="p" pathLength="100" stroke="#f9a8d4" style="animation-delay:2.40s" d="M315 207.0L425 186.0"/>
+<path class="p" pathLength="100" stroke="#a78bfa" style="animation-delay:2.40s" d="M95 207.0L205 249.0"/>
+<path class="p" pathLength="100" stroke="#a78bfa" style="animation-delay:3.00s" d="M205 249.0L315 165.0"/>
+<path class="p" pathLength="100" stroke="#f9a8d4" style="animation-delay:3.60s" d="M315 165.0L425 186.0"/>
+</g>
+<circle class="h" cx="95" cy="123.0" r="17" fill="#67e8f9" fill-opacity=".28" style="animation-delay:1.20s"/>
+<circle cx="95" cy="123.0" r="9" fill="#0b1224" stroke="#67e8f9" stroke-width="2"/>
+<circle cx="95" cy="123.0" r="3.2" fill="#67e8f9"/>
+<circle class="h" cx="95" cy="165.0" r="17" fill="#67e8f9" fill-opacity=".28" style="animation-delay:0.00s"/>
+<circle cx="95" cy="165.0" r="9" fill="#0b1224" stroke="#67e8f9" stroke-width="2"/>
+<circle cx="95" cy="165.0" r="3.2" fill="#67e8f9"/>
+<circle class="h" cx="95" cy="207.0" r="17" fill="#67e8f9" fill-opacity=".28" style="animation-delay:2.40s"/>
+<circle cx="95" cy="207.0" r="9" fill="#0b1224" stroke="#67e8f9" stroke-width="2"/>
+<circle cx="95" cy="207.0" r="3.2" fill="#67e8f9"/>
+<circle class="h" cx="205" cy="81.0" r="17" fill="#a78bfa" fill-opacity=".28" style="animation-delay:1.80s"/>
+<circle cx="205" cy="81.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="205" cy="81.0" r="3.2" fill="#a78bfa"/>
+<circle cx="205" cy="123.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="205" cy="123.0" r="3.2" fill="#a78bfa"/>
+<circle class="h" cx="205" cy="165.0" r="17" fill="#a78bfa" fill-opacity=".28" style="animation-delay:0.60s"/>
+<circle cx="205" cy="165.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="205" cy="165.0" r="3.2" fill="#a78bfa"/>
+<circle cx="205" cy="207.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="205" cy="207.0" r="3.2" fill="#a78bfa"/>
+<circle class="h" cx="205" cy="249.0" r="17" fill="#a78bfa" fill-opacity=".28" style="animation-delay:3.00s"/>
+<circle cx="205" cy="249.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="205" cy="249.0" r="3.2" fill="#a78bfa"/>
+<circle cx="315" cy="81.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="315" cy="81.0" r="3.2" fill="#a78bfa"/>
+<circle class="h" cx="315" cy="123.0" r="17" fill="#a78bfa" fill-opacity=".28" style="animation-delay:1.20s"/>
+<circle cx="315" cy="123.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="315" cy="123.0" r="3.2" fill="#a78bfa"/>
+<circle class="h" cx="315" cy="165.0" r="17" fill="#a78bfa" fill-opacity=".28" style="animation-delay:3.60s"/>
+<circle cx="315" cy="165.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="315" cy="165.0" r="3.2" fill="#a78bfa"/>
+<circle class="h" cx="315" cy="207.0" r="17" fill="#a78bfa" fill-opacity=".28" style="animation-delay:2.40s"/>
+<circle cx="315" cy="207.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="315" cy="207.0" r="3.2" fill="#a78bfa"/>
+<circle cx="315" cy="249.0" r="9" fill="#0b1224" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="315" cy="249.0" r="3.2" fill="#a78bfa"/>
+<circle class="h" cx="425" cy="144.0" r="17" fill="#f472b6" fill-opacity=".28" style="animation-delay:1.80s"/>
+<circle cx="425" cy="144.0" r="9" fill="#0b1224" stroke="#f472b6" stroke-width="2"/>
+<circle cx="425" cy="144.0" r="3.2" fill="#f472b6"/>
+<circle class="h" cx="425" cy="186.0" r="17" fill="#f472b6" fill-opacity=".28" style="animation-delay:3.00s"/>
+<circle class="h" cx="425" cy="186.0" r="17" fill="#f472b6" fill-opacity=".28" style="animation-delay:4.20s"/>
+<circle cx="425" cy="186.0" r="9" fill="#0b1224" stroke="#f472b6" stroke-width="2"/>
+<circle cx="425" cy="186.0" r="3.2" fill="#f472b6"/>
+<text class="mono" x="95" y="292" text-anchor="middle" font-size="14" fill="#64748b">x</text>
+<text class="mono" x="205" y="292" text-anchor="middle" font-size="14" fill="#64748b">h₁</text>
+<text class="mono" x="315" y="292" text-anchor="middle" font-size="14" fill="#64748b">h₂</text>
+<text class="mono" x="425" y="292" text-anchor="middle" font-size="14" fill="#64748b">ŷ</text>
+<line x1="478" y1="70" x2="478" y2="260" stroke="#334155" stroke-opacity=".7"/>
+<rect x="520" y="62" width="214" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".55"/>
+<circle class="live" cx="539" cy="77" r="4.5" fill="#4ade80"/>
+<text class="mono" x="554" y="82" font-size="14" letter-spacing="2.6" fill="#a5f3fc" font-weight="600">AI/ML ENGINEER</text>
+<text class="sans" x="517" y="156" font-size="60" font-weight="800" letter-spacing="-1" fill="url(#name)">Lakshmi Tripura</text>
+<text class="mono" x="520" y="210" font-size="22" font-weight="700" fill="#f472b6">&gt;</text>
+<clipPath id="c0"><rect x="546" y="186" height="34" width="0"><animate attributeName="width" values="0.0;13.2;26.4;39.6;52.8;66.0;79.2;92.4;105.6;118.8;132.0;145.2;158.4;171.6;184.8;198.0;211.2;224.4;237.6;250.8;264.0;277.2;290.4;303.6;316.8;330.0;343.2;356.4;369.6;382.8;396.0;409.2;0.0" keyTimes="0.0000;0.0048;0.0097;0.0145;0.0194;0.0242;0.0290;0.0339;0.0387;0.0435;0.0484;0.0532;0.0581;0.0629;0.0677;0.0726;0.0774;0.0823;0.0871;0.0919;0.0968;0.1016;0.1065;0.1113;0.1161;0.1210;0.1258;0.1306;0.1355;0.1403;0.1452;0.1500;0.3000" calcMode="discrete" dur="12s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
+<text class="mono" x="548" y="210" font-size="22" fill="#cffafe" textLength="409.2" lengthAdjust="spacing" clip-path="url(#c0)">Building multi-agent AI systems</text>
+<rect x="548" y="191" width="11" height="25" rx="1.5" fill="#67e8f9" opacity="0"><animate attributeName="x" values="548.0;561.2;574.4;587.6;600.8;614.0;627.2;640.4;653.6;666.8;680.0;693.2;706.4;719.6;732.8;746.0;759.2;772.4;785.6;798.8;812.0;825.2;838.4;851.6;864.8;878.0;891.2;904.4;917.6;930.8;944.0;957.2;548.0" keyTimes="0.0000;0.0048;0.0097;0.0145;0.0194;0.0242;0.0290;0.0339;0.0387;0.0435;0.0484;0.0532;0.0581;0.0629;0.0677;0.0726;0.0774;0.0823;0.0871;0.0919;0.0968;0.1016;0.1065;0.1113;0.1161;0.1210;0.1258;0.1306;0.1355;0.1403;0.1452;0.1500;0.3000" calcMode="discrete" dur="12s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" keyTimes="0;0.3333" calcMode="discrete" dur="12s" begin="0s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>
+<clipPath id="c1"><rect x="546" y="186" height="34" width="0"><animate attributeName="width" values="0.0;13.2;26.4;39.6;52.8;66.0;79.2;92.4;105.6;118.8;132.0;145.2;158.4;171.6;184.8;198.0;211.2;224.4;237.6;250.8;264.0;277.2;290.4;303.6;316.8;330.0;343.2;356.4;369.6;382.8;396.0;409.2;422.4;435.6;448.8;462.0;475.2;488.4;501.6;514.8;528.0;0.0" keyTimes="0.0000;0.0037;0.0075;0.0112;0.0150;0.0187;0.0225;0.0263;0.0300;0.0337;0.0375;0.0412;0.0450;0.0488;0.0525;0.0563;0.0600;0.0638;0.0675;0.0713;0.0750;0.0788;0.0825;0.0862;0.0900;0.0938;0.0975;0.1012;0.1050;0.1087;0.1125;0.1162;0.1200;0.1237;0.1275;0.1313;0.1350;0.1387;0.1425;0.1462;0.1500;0.3000" calcMode="discrete" dur="12s" begin="4s" repeatCount="indefinite"/></rect></clipPath>
+<text class="mono" x="548" y="210" font-size="22" fill="#cffafe" textLength="528.0" lengthAdjust="spacing" clip-path="url(#c1)">Shipping RAG pipelines that cite sources</text>
+<rect x="548" y="191" width="11" height="25" rx="1.5" fill="#67e8f9" opacity="0"><animate attributeName="x" values="548.0;561.2;574.4;587.6;600.8;614.0;627.2;640.4;653.6;666.8;680.0;693.2;706.4;719.6;732.8;746.0;759.2;772.4;785.6;798.8;812.0;825.2;838.4;851.6;864.8;878.0;891.2;904.4;917.6;930.8;944.0;957.2;970.4;983.6;996.8;1010.0;1023.2;1036.4;1049.6;1062.8;1076.0;548.0" keyTimes="0.0000;0.0037;0.0075;0.0112;0.0150;0.0187;0.0225;0.0263;0.0300;0.0337;0.0375;0.0412;0.0450;0.0488;0.0525;0.0563;0.0600;0.0638;0.0675;0.0713;0.0750;0.0788;0.0825;0.0862;0.0900;0.0938;0.0975;0.1012;0.1050;0.1087;0.1125;0.1162;0.1200;0.1237;0.1275;0.1313;0.1350;0.1387;0.1425;0.1462;0.1500;0.3000" calcMode="discrete" dur="12s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" keyTimes="0;0.3333" calcMode="discrete" dur="12s" begin="4s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>
+<clipPath id="c2"><rect x="546" y="186" height="34" width="0"><animate attributeName="width" values="0.0;13.2;26.4;39.6;52.8;66.0;79.2;92.4;105.6;118.8;132.0;145.2;158.4;171.6;184.8;198.0;211.2;224.4;237.6;250.8;264.0;277.2;290.4;303.6;316.8;330.0;343.2;356.4;369.6;382.8;396.0;409.2;0.0" keyTimes="0.0000;0.0048;0.0097;0.0145;0.0194;0.0242;0.0290;0.0339;0.0387;0.0435;0.0484;0.0532;0.0581;0.0629;0.0677;0.0726;0.0774;0.0823;0.0871;0.0919;0.0968;0.1016;0.1065;0.1113;0.1161;0.1210;0.1258;0.1306;0.1355;0.1403;0.1452;0.1500;0.3000" calcMode="discrete" dur="12s" begin="8s" repeatCount="indefinite"/></rect></clipPath>
+<text class="mono" x="548" y="210" font-size="22" fill="#cffafe" textLength="409.2" lengthAdjust="spacing" clip-path="url(#c2)">Turning LLMs into real products</text>
+<rect x="548" y="191" width="11" height="25" rx="1.5" fill="#67e8f9" opacity="0"><animate attributeName="x" values="548.0;561.2;574.4;587.6;600.8;614.0;627.2;640.4;653.6;666.8;680.0;693.2;706.4;719.6;732.8;746.0;759.2;772.4;785.6;798.8;812.0;825.2;838.4;851.6;864.8;878.0;891.2;904.4;917.6;930.8;944.0;957.2;548.0" keyTimes="0.0000;0.0048;0.0097;0.0145;0.0194;0.0242;0.0290;0.0339;0.0387;0.0435;0.0484;0.0532;0.0581;0.0629;0.0677;0.0726;0.0774;0.0823;0.0871;0.0919;0.0968;0.1016;0.1065;0.1113;0.1161;0.1210;0.1258;0.1306;0.1355;0.1403;0.1452;0.1500;0.3000" calcMode="discrete" dur="12s" begin="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" keyTimes="0;0.3333" calcMode="discrete" dur="12s" begin="8s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>
+<text class="sans" x="520" y="262" font-size="18" fill="#94a3b8" font-weight="500">Generative AI<tspan fill="#a78bfa">  ·  </tspan>LLMs<tspan fill="#a78bfa">  ·  </tspan>RAG<tspan fill="#a78bfa">  ·  </tspan>AI Agents<tspan fill="#a78bfa">  ·  </tspan>MLOps</text>
+<rect y="316" width="1200" height="4" fill="url(#bar)"/>
+</g>
+</svg>
